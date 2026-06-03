@@ -4,3 +4,4 @@ Matplotlib
 Seaborn
 Scikit-Learn
 Streamlit
+Reportlab
